@@ -1,0 +1,31 @@
+{
+  "name": "webdriverio-selenoid-boilerplate",
+  "version": "1.0.0",
+  "description": "Webdriverio selenoid boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio",
+    "sample-test": "node mytest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anilkk/webdriverio-selenoid-boilerplate.git"
+  },
+  "keywords": [
+    "automation",
+    "selenoid",
+    "webdriverio"
+  ],
+  "author": "Anil Kumar Krishnashetty anilbms75@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anilkk/webdriverio-selenoid-boilerplate/issues"
+  },
+  "homepage": "https://github.com/anilkk/webdriverio-selenoid-boilerplate#readme",
+  "devDependencies": {
+    "jest-matchers": "^20.0.3",
+    "wdio-cucumber-framework": "^2.2.7",
+    "wdio-spec-reporter": "^0.1.5",
+    "webdriverio": "^4.13.2"
+  }
+}
