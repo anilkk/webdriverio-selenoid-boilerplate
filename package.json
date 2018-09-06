@@ -4,7 +4,7 @@
   "description": "Webdriverio selenoid boilerplate",
   "main": "index.js",
   "scripts": {
-    "test": "wdio",
+    "test": "./node_modules/.bin/wdio",
     "sample-test": "node mytest.js"
   },
   "repository": {

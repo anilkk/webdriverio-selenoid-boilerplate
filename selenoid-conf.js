@@ -1,5 +1,5 @@
 module.exports.config = {
-    host: '<selenium-server-path>',
+    host: 'selenoid.bitgrip.berlin',
     port: 4444,
     path: '/wd/hub',
     desiredCapabilities: {

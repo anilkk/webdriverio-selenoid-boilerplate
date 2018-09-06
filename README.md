@@ -13,5 +13,5 @@ webdriverio automation tests with selenoid
      
      & we can use Selenoid instead of Selenium server using url for local testing 
      `http://localhost:4444/wd/hub`
-3. Replace <selenium-server-path> with Selenoid server host. From step 2 it will be 
+3. Replace 'localhost' with Selenoid server host. From step 2 it will be 
 `http://localhost` 
